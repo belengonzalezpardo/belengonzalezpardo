@@ -51,6 +51,6 @@ My recent research analyses the productivity effects of immigration across regio
 ---
 
 ### 🔗 Links
-You can find more information on my work on my [personal website](https://sites.google.com/view/belen-gonzalez-pardo/home), my [SSRN profile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5499898), and my [LinkedIn profile](https://www.linkedin.com/in/belen-gonzalez-pardo/).
+You can find more information on my work on my [personal website](https://sites.google.com/view/belen-gonzalez-pardo/home) and my [LinkedIn profile](https://www.linkedin.com/in/belen-gonzalez-pardo/).
 
 
